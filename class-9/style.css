@@ -1,0 +1,64 @@
+/*
+Basic Information:
+--------------------
+
+Project Name   	:	NGH school Template
+Author       	: 	NGH school
+Our Site 		: 	https://youthenlight.com
+Description 	: 	This is html5 School template
+Developed By 	: 	Mahbubul Haq
+Phone           :   01515672069
+
+
+-----------------------------------------------------------------------------------*/
+/*================== 1. Start Template Common CSS ===============*/
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.section-padding {
+	padding: 80px 0;
+}
+.section-boder span {
+	height: 5px;
+	width: 50px;
+	background: #6aaf08;
+	display:inline-block;
+}
+.section-boder span.black-border {
+	background: #333;
+	width: 30px;
+	margin: 0 10px;
+	border-radius: 2px;
+}
+.section-title h2 {
+	font-size: 32px;
+}
+.section-title{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.client-testmonial-carousel .owl-dots div{
+	height: 5px;
+	width: 50px;
+	background-color: #6aaf08;
+}
+.client-testmonial-carousel .owl-dots div .active{
+	width: 30px;
+	background-color: #333;
+	
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+	display: none;
+}
+/*========================   Nav manu ==================*/
+
+
+
+
+
+
+
